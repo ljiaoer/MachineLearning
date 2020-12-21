@@ -8,9 +8,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1lwuQ4vkcqsNBSEryyqXxWrISnO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +41,14 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="685" y="209" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1608520696548" />
+    <state x="800" y="387" key="Github.ShareDialog" timestamp="1608523418818">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="800" y="387" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1608523418818" />
+    <state x="678" y="148" key="Github.UntrackedFilesDialog" timestamp="1608523474484">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="678" y="148" key="Github.UntrackedFilesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1608523474484" />
     <state x="335" y="56" key="SettingsEditor" timestamp="1608523359259">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
