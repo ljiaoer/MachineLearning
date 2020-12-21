@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28d1f39f-47f3-45c3-b796-162b41fc127e" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1lwuQ4vkcqsNBSEryyqXxWrISnO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lijiaojiao\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d1f39f-47f3-45c3-b796-162b41fc127e" name="Default" comment="" />
+      <created>1608373123126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608373123126</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="209" key="FileChooserDialogImpl" timestamp="1608520696548">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="685" y="209" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1608520696548" />
+    <state x="335" y="56" key="SettingsEditor" timestamp="1608523359259">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="335" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1608523359259" />
+  </component>
+</project>
